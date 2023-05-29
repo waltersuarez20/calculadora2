@@ -1,0 +1,22 @@
+{
+  "name": "walter",
+  "version": "1.0.0",
+  "description": "progrma ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "intro",
+    "node",
+    "suarez"
+  ],
+  "author": "waltersuarezdaza01@gmail.comm",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
